@@ -1,0 +1,7 @@
+Secara umum berikut adalah silabusnya:
+- Memahami dan memanfaatkan Large Language Models (LLMs) secara efektif.
+- Menerapkan LLMs untuk tugas-tugas seperti Text Completion, Generation, dan Question-Answering
+- Personalisasi LLMs ke dalam domain atau tugas yang lebih spesifik.
+- Menggabungkan LLMs ke dalam berbagai projek bisnis.
+
+untuk lebih jelasnya, kami sudah melampirkan file materinya yang bisa diunduh pada link berikut: https://drive.google.com/file/d/1fdWgX8SE41dddOJ5wMFQGg-PEBZbnTpC/view
